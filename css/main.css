@@ -1,0 +1,59 @@
+h1 {
+  font-family: 'Outfit', sans-serif;
+  color: #000000;
+  font-size: 6rem;
+}
+h2 {
+  font-family: 'Outfit', sans-serif;
+  color: #000000;
+  font-size: 2.5rem;
+}
+body {
+  background-color: #FFFAF0;
+}
+.first {
+  float: left;
+}
+.last {
+  float: right;
+}
+header {
+  width: 90vw;
+  margin: 25px auto;
+}
+main {
+  width: 89vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+.col1 {
+  float: left;
+}
+.col1 {
+  float: right;
+  text-align: right;
+}
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+a:visited {
+ text-decoration: none;
+ color: #000000;
+}
+a:hover {
+  text-decoration: none;
+  color: #7CFC00;
+  background-color: #FFFAF0;
+}
+a.e:link {
+  font-family: 'Outfit', sans-serif;
+  color: #000000;
+  font-size: 2rem;
+  text-decoration: none;
+  font-weight: 100
+}
+ul {
+  list-style:none;
+  padding-left:0;
+}
